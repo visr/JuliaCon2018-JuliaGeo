@@ -1,6 +1,6 @@
 # JuliaCon 2018 - Building a strong foundation for geospatial innovation
 
-This repository contains the slides and demo code used in the presentation. The talk was also recorded and is available here: https://youtu.be/CD4EiDNeNg4.
+This [repository](https://github.com/visr/JuliaCon2018-JuliaGeo) contains the slides and demo code used in the presentation. The talk was also recorded and is available here: https://youtu.be/CD4EiDNeNg4.
 
 The raster data used in the presentation was obtained from here: https://environment.data.gov.uk/ds/survey/#/survey?grid=NY31. Some further processing was done to combine the downloaded data to a single tile.
 
